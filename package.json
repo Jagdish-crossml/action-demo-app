@@ -2,7 +2,7 @@
   "name": "my-demo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jagdish-crossml.github.io/my-demo-app",
+  "homepage": "https://jagdish-crossml.github.io/action-demo-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
