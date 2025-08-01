@@ -6,7 +6,7 @@ function Home() {
 }
 
 function About() {
-  return <h2>About Page - Loaded on Deployment </h2>;
+  return <h2>About Page - Loaded on Deployment  </h2>;
 }
 
 function App() {
